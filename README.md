@@ -1,7 +1,7 @@
 <h1 align="center">ElementApi</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/thejuange/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-fcayy&psig=AOvVaw3P6ZAoTguUigH67T7Z2X7k&ust=1714776054167000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCCj9-E8IUDFQAAAAAdAAAAABAE" alt="Icon linkedin"></a>
+<a href="https://www.linkedin.com/in/thejuange/"><img src="https://e1.pngegg.com/pngimages/47/203/png-clipart-linkedin-icon-512x512-linkedin.png" alt="Icon linkedin"></a>
 
 
 ## About Laravel
